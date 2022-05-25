@@ -13,15 +13,11 @@
 [后端移步:backend](https://github.com/ciweio/springboot-DynamicInfoTable.git)
 
 ### use these to start:
-1.
- ```
- cd cwtodo
- ```
-2.
- ```
- npm install
- ``` 
-3.
- ```
- npm run dev
- ```
+1.  
+    ```
+    npm install
+    ``` 
+2. 
+    ```
+    npm run dev
+    ```
